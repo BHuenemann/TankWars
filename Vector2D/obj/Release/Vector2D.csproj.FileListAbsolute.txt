@@ -1,0 +1,8 @@
+C:\Users\ben41\source\repos\u1190338\TankWars\Vector2D\bin\Release\Vector2D.dll
+C:\Users\ben41\source\repos\u1190338\TankWars\Vector2D\bin\Release\Vector2D.pdb
+C:\Users\ben41\source\repos\u1190338\TankWars\Vector2D\bin\Release\Newtonsoft.Json.dll
+C:\Users\ben41\source\repos\u1190338\TankWars\Vector2D\bin\Release\Newtonsoft.Json.xml
+C:\Users\ben41\source\repos\u1190338\TankWars\Vector2D\obj\Release\Vector2D.csprojAssemblyReference.cache
+C:\Users\ben41\source\repos\u1190338\TankWars\Vector2D\obj\Release\Vector2D.csproj.CopyComplete
+C:\Users\ben41\source\repos\u1190338\TankWars\Vector2D\obj\Release\Vector2D.dll
+C:\Users\ben41\source\repos\u1190338\TankWars\Vector2D\obj\Release\Vector2D.pdb

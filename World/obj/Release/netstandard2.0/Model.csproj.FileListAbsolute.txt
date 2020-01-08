@@ -1,0 +1,11 @@
+C:\Users\ben41\source\repos\u1190338\TankWars\World\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\ben41\source\repos\u1190338\TankWars\World\bin\Release\netstandard2.0\Model.dll
+C:\Users\ben41\source\repos\u1190338\TankWars\World\bin\Release\netstandard2.0\Model.pdb
+C:\Users\ben41\source\repos\u1190338\TankWars\World\bin\Release\netstandard2.0\Vector2D.dll
+C:\Users\ben41\source\repos\u1190338\TankWars\World\bin\Release\netstandard2.0\Vector2D.pdb
+C:\Users\ben41\source\repos\u1190338\TankWars\World\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\ben41\source\repos\u1190338\TankWars\World\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\ben41\source\repos\u1190338\TankWars\World\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\ben41\source\repos\u1190338\TankWars\World\obj\Release\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\ben41\source\repos\u1190338\TankWars\World\obj\Release\netstandard2.0\Model.dll
+C:\Users\ben41\source\repos\u1190338\TankWars\World\obj\Release\netstandard2.0\Model.pdb

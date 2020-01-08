@@ -1,0 +1,9 @@
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\bin\Release\Resources.exe.config
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\bin\Release\Resources.exe
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\bin\Release\Resources.pdb
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\bin\Release\Newtonsoft.Json.dll
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\bin\Release\Newtonsoft.Json.xml
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\obj\Release\Resources.exe
+C:\Users\ben41\source\repos\u1190338\TankWars\Resources\obj\Release\Resources.pdb
